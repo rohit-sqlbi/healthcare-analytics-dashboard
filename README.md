@@ -105,8 +105,6 @@ This project is an end-to-end Healthcare Analytics Dashboard built using Power B
 
 ## Author
 
-## Author
-
 Rohit Mallick
 Aspiring Data Analyst | Power BI | SQL | DAX
 
