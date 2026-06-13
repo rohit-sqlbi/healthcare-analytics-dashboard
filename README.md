@@ -14,7 +14,7 @@ This project is an end-to-end Healthcare Analytics Dashboard built using Power B
 * Power BI
 * SQL
 * DAX
-* Excel
+
 
 ---
 
