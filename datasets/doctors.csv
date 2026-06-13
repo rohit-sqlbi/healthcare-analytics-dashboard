@@ -1,0 +1,201 @@
+doctor_id,doctor_name,gender,specialization,department_id,experience_years,joining_date,consultation_fee,doctor_rating,city,doctor_status
+1,Vedika Kurian,Male,Radiologist,4,5,2016-10-10,500,,Kolkata,Resigned
+2,Siya Deep,Male,Cardiologist,4,18,2024-12-09,700,2.6,Bangalore,active
+3,Yug Ratti,F,Dermatologist,3,11,2025-04-30,1000,4.0,Delhi,active
+4,Vasatika Arya,male,Oncologist,2,12,2024-02-15,2000,,Mumbai,Active
+5,Hredhaan Patel,F,Pediatrician,2,21,2023-01-22,2000,,Mumbai,active
+6,Aachal Seshadri,Male,Neurologist,5,8,2018-09-04,500,2.6,Bangalore,On Leave
+7,Damyanti Pandit,F,Oncologist,3,12,2025-08-23,700,,Mumbai,Active
+8,Kevin Nadkarni,M,ENT Specialist,3,13,2022-05-08,1000,4.1,Delhi,On Leave
+9,Gaurangi Rana,Male,Dermatologist,6,9,2022-01-26,500,3.1,Delhi,On Leave
+10,Warinder Dalal,Female,Orthopedic,8,9,2018-08-30,700,,Delhi,On Leave
+11,Bimala De,M,Radiologist,6,5,2023-01-10,2000,,Bangalore,Active
+12,Alexander Toor,Male,Dermatologist,3,20,2022-06-14,500,4.7,Bangalore,Resigned
+13,Jeet Dhar,M,Cardiologist,9,22,2023-10-17,500,,Mumbai,On Leave
+14,Omisha Sant,Male,Cardiologist,8,24,2017-01-27,1000,3.2,Delhi,Active
+15,Oliver Baral,male,Oncologist,3,25,2017-04-03,700,4.6,Kolkata,On Leave
+16,Aashi Solanki,F,Radiologist,5,2,2024-12-17,700,,Kolkata,Active
+17,Quincy Kumer,F,ENT Specialist,3,18,2020-09-19,700,4.5,Mumbai,Resigned
+18,Elijah Kamdar,Female,Dermatologist,5,22,2022-06-17,1000,4.8,Bangalore,Resigned
+19,Hema Anne,Male,Cardiologist,6,19,2026-02-03,2000,3.1,Delhi,active
+20,Hitesh Chatterjee,Male,Neurologist,4,2,2024-02-12,1000,2.7,Kolkata,active
+21,Samar Bala,male,Orthopedic,9,24,2021-01-06,2000,4.2,Bangalore,active
+22,Udant Patla,F,Neurologist,2,22,2019-04-22,1500,4.5,Mumbai,Resigned
+23,Amruta Bala,F,Cardiologist,2,13,2026-05-05,1000,3.7,Kolkata,active
+24,Luke Kapur,Female,Dermatologist,3,6,2018-10-23,1000,,Bangalore,active
+25,Girish Lad,Male,Cardiologist,1,3,2021-09-02,700,3.6,Delhi,Resigned
+26,Advaith Kumar,F,Orthopedic,1,13,2024-06-02,500,,Bangalore,On Leave
+27,Damini Suresh,F,Radiologist,3,10,2024-03-04,700,,Kolkata,Active
+28,Tarak Sachdev,male,Orthopedic,9,2,2018-01-31,2000,,Kolkata,active
+29,Girindra Pathak,Male,Neurologist,7,19,2021-05-25,700,4.0,Kolkata,Active
+30,Xiti Bedi,F,Radiologist,5,22,2025-09-03,1000,,Delhi,On Leave
+31,Dayita Patil,F,Oncologist,8,25,2016-08-09,500,,Kolkata,Resigned
+32,Bahadurjit Rastogi,M,Radiologist,2,17,2016-07-16,1000,5.0,Delhi,On Leave
+33,Faris Kata,Male,Orthopedic,5,15,2024-03-12,2000,,Mumbai,Active
+34,Robert Ghosh,M,Pediatrician,3,4,2019-09-09,500,3.2,Delhi,On Leave
+35,Pooja Golla,male,Pediatrician,4,17,2019-10-01,1500,,Mumbai,Active
+36,Deepa Amble,Male,Cardiologist,1,11,2017-11-29,700,,Mumbai,active
+37,Manbir Nagy,F,Cardiologist,9,4,2025-02-05,500,,Delhi,Active
+38,Oeshi Krishnamurthy,male,Orthopedic,7,2,2019-08-22,1000,4.0,Mumbai,Active
+39,Patrick Sen,male,Oncologist,2,25,2023-09-23,2000,3.0,Bangalore,active
+40,Gagan Varghese,Female,Cardiologist,7,6,2022-11-11,1000,4.7,Bangalore,active
+41,Mekhala Tiwari,male,Cardiologist,7,16,2023-07-12,700,2.9,Delhi,Resigned
+42,Yutika Nori,male,Cardiologist,4,22,2016-07-20,700,3.3,Bangalore,On Leave
+43,Arin Ghosh,male,Dermatologist,6,22,2020-02-25,2000,,Mumbai,Active
+44,Unni Chowdhury,Male,Pediatrician,3,2,2025-12-14,500,,Bangalore,On Leave
+45,Divya Apte,male,Radiologist,7,9,2020-08-09,500,3.6,Bangalore,Active
+46,Odika Chaudhary,M,Dermatologist,6,3,2019-01-14,1000,4.8,Mumbai,Active
+47,Warjas Bassi,male,Dermatologist,6,23,2023-07-13,1000,,Delhi,active
+48,Tejas Chahal,F,Pediatrician,3,13,2017-04-04,2000,,Kolkata,On Leave
+49,Yochana Dyal,male,ENT Specialist,8,15,2026-04-22,700,,Bangalore,active
+50,Oscar Muni,Male,Radiologist,2,22,2020-09-08,1000,,Delhi,active
+51,Bhavika Bassi,Female,Neurologist,8,15,2020-06-23,1500,2.6,Delhi,Resigned
+52,Kala Chaudhari,F,Neurologist,1,25,2017-08-24,1500,3.5,Delhi,active
+53,Tamanna Bhandari,M,ENT Specialist,2,5,2018-01-18,1500,3.7,Mumbai,Resigned
+54,Yagnesh Mital,M,ENT Specialist,9,6,2024-11-16,1500,,Bangalore,On Leave
+55,Tejas Ravi,Female,ENT Specialist,9,21,2019-06-01,700,,Mumbai,Resigned
+56,Aradhana Apte,Male,Oncologist,5,11,2023-01-15,2000,4.3,Kolkata,active
+57,Krish Lata,Female,Neurologist,4,14,2024-11-06,1500,3.1,Mumbai,Resigned
+58,Zehaan Dara,F,Cardiologist,7,25,2022-04-14,2000,,Bangalore,Resigned
+59,Leena Anne,Male,Dermatologist,7,18,2020-06-04,2000,,Delhi,Resigned
+60,Damini Narain,Female,Dermatologist,1,11,2018-03-04,1500,,Delhi,Resigned
+61,Radha Loyal,Female,Cardiologist,7,3,2026-05-08,1500,5.0,Delhi,Resigned
+62,Lekha Saini,Female,Radiologist,6,15,2021-09-25,1000,,Mumbai,Resigned
+63,Girish Bala,male,Neurologist,5,16,2026-02-19,500,,Kolkata,On Leave
+64,Yasti Barad,Female,Radiologist,1,7,2025-05-07,500,4.1,Delhi,active
+65,Harita Walia,Female,Radiologist,10,15,2021-06-22,1000,3.7,Mumbai,active
+66,Ishani Ghosh,M,Pediatrician,3,4,2025-09-05,2000,4.0,Kolkata,On Leave
+67,Hemangini Sridhar,M,Radiologist,7,3,2018-09-06,2000,,Delhi,Active
+68,Bhavna Kaul,male,Cardiologist,10,12,2020-01-29,2000,4.6,Bangalore,On Leave
+69,Oviya Pingle,Male,Dermatologist,1,16,2024-02-22,500,,Bangalore,On Leave
+70,Prisha Dhawan,F,Pediatrician,3,20,2024-10-11,2000,,Bangalore,Resigned
+71,Harini Dass,F,Radiologist,6,3,2023-02-25,1000,,Bangalore,active
+72,Advika Wason,F,Cardiologist,6,16,2023-06-08,1000,,Delhi,Resigned
+73,Harini Shanker,Female,Pediatrician,6,20,2024-06-10,1000,,Kolkata,active
+74,Gaurav Datta,Male,Radiologist,8,23,2025-07-26,1500,,Bangalore,Resigned
+75,Yamini Varty,Male,Radiologist,7,10,2022-10-26,2000,2.7,Mumbai,Resigned
+76,Zaid Borde,M,Oncologist,9,12,2023-12-13,1500,,Mumbai,On Leave
+77,Waida Venkatesh,male,Neurologist,6,24,2023-08-16,2000,3.1,Delhi,active
+78,Anay Din,Female,Pediatrician,10,4,2017-05-18,700,,Mumbai,active
+79,Diya Lad,male,Orthopedic,9,9,2017-07-12,500,2.9,Kolkata,On Leave
+80,Aryan Chowdhury,Female,Cardiologist,2,19,2020-07-10,1000,,Bangalore,Resigned
+81,Chaaya Dhawan,F,ENT Specialist,5,4,2025-08-08,500,3.4,Bangalore,Resigned
+82,Naveen Wadhwa,Male,Orthopedic,3,19,2017-07-21,1000,3.9,Kolkata,active
+83,Advika Sidhu,Male,Radiologist,10,25,2023-12-24,2000,,Bangalore,Resigned
+84,Keya Sabharwal,F,Cardiologist,5,20,2025-07-20,500,,Delhi,active
+85,Sanya Chawla,male,Orthopedic,4,18,2022-09-08,500,4.2,Delhi,Active
+86,Elijah Rajan,F,Cardiologist,5,8,2021-02-04,1000,,Mumbai,Resigned
+87,Nathan Tank,Male,Radiologist,10,14,2024-11-18,500,,Delhi,active
+88,Ridhi Krishnan,male,Orthopedic,1,10,2017-09-30,2000,4.6,Mumbai,Resigned
+89,Nitara Bhavsar,Male,Pediatrician,7,17,2023-09-02,2000,,Bangalore,Resigned
+90,Omisha Dora,Male,Pediatrician,6,1,2020-07-29,500,,Delhi,Active
+91,Unni Gala,male,ENT Specialist,8,9,2021-07-05,700,3.9,Bangalore,Resigned
+92,Theodore Shukla,Male,Oncologist,6,22,2020-11-17,500,,Delhi,On Leave
+93,Kashvi Goswami,F,Cardiologist,7,15,2022-07-03,500,,Mumbai,On Leave
+94,Eiravati Venkataraman,male,Cardiologist,9,22,2018-12-12,2000,,Bangalore,Resigned
+95,Urmi Walia,Male,ENT Specialist,10,21,2023-05-16,1500,,Kolkata,active
+96,Eta Konda,male,ENT Specialist,8,4,2019-02-24,500,,Delhi,active
+97,Nathan Chhabra,male,Radiologist,2,4,2022-02-24,1500,,Kolkata,active
+98,Ranveer Borah,F,Pediatrician,9,14,2026-05-21,1500,,Bangalore,active
+99,Amaira Nagarajan,F,Orthopedic,4,3,2023-08-24,1000,,Bangalore,On Leave
+100,Vedika Tandon,M,Pediatrician,5,19,2019-05-09,2000,3.2,Bangalore,active
+101,Banjeet Grewal,F,Dermatologist,6,15,2020-09-26,1000,,Delhi,active
+102,Saumya Bandi,M,Oncologist,1,24,2022-03-23,1500,,Bangalore,Resigned
+103,Vidhi Mallick,Female,Oncologist,3,4,2026-04-02,1500,3.7,Kolkata,Resigned
+104,Warhi Biswas,Male,Neurologist,3,16,2024-08-18,1000,,Mumbai,Resigned
+105,Rajata Edwin,Male,ENT Specialist,6,18,2021-12-26,500,,Kolkata,active
+106,Tamanna Rau,male,Neurologist,7,25,2018-06-10,500,5.0,Bangalore,active
+107,Victor Lanka,male,Cardiologist,6,10,2017-12-25,1000,4.8,Mumbai,Resigned
+108,Advaith Dyal,Female,Orthopedic,10,6,2017-08-13,700,,Kolkata,Resigned
+109,Max Om,M,Orthopedic,10,8,2018-09-07,1500,,Mumbai,Resigned
+110,Harrison Chada,male,Orthopedic,5,3,2021-02-18,1500,,Mumbai,On Leave
+111,Anya Sami,F,Radiologist,5,13,2020-11-27,1500,,Kolkata,active
+112,Parth Uppal,F,Cardiologist,5,22,2022-12-23,1500,,Mumbai,Active
+113,Omya Narang,M,ENT Specialist,10,10,2021-08-07,700,4.7,Mumbai,active
+114,Jai Chada,Female,Cardiologist,2,10,2018-03-19,1500,4.1,Kolkata,On Leave
+115,Vyanjana Muni,Female,Dermatologist,6,6,2025-07-26,700,,Delhi,On Leave
+116,Aarush Dani,M,Pediatrician,3,16,2024-05-14,1000,,Mumbai,Active
+117,Nitara Konda,F,Dermatologist,4,18,2025-05-21,1000,4.9,Kolkata,Resigned
+118,Dayamai Chaudhuri,Male,Oncologist,8,22,2017-06-11,1000,3.2,Bangalore,On Leave
+119,Alka Divan,Male,Oncologist,1,20,2021-04-25,700,,Kolkata,Resigned
+120,Pavani Dixit,male,Cardiologist,3,2,2024-09-29,1000,4.1,Bangalore,Active
+121,Abeer Arya,Male,ENT Specialist,7,12,2019-10-20,2000,3.1,Bangalore,active
+122,Charvi Wason,F,Dermatologist,10,9,2023-07-15,500,,Mumbai,active
+123,Deepa Sachdev,F,Neurologist,6,22,2022-03-05,1000,3.6,Mumbai,Active
+124,Gautami Koshy,F,Neurologist,8,22,2017-09-06,700,3.2,Kolkata,Active
+125,Netra Master,male,Radiologist,10,3,2022-11-02,2000,3.1,Delhi,active
+126,Aashi Bhatti,Female,Cardiologist,10,9,2021-12-07,700,3.3,Delhi,On Leave
+127,Wyatt Khalsa,Female,Cardiologist,3,12,2021-04-02,700,2.8,Mumbai,Active
+128,Falan Gera,Female,Neurologist,7,24,2023-11-03,500,3.2,Bangalore,Resigned
+129,Hemangini Misra,male,Radiologist,8,20,2019-09-16,500,3.8,Mumbai,Resigned
+130,Kai Sandal,Male,Dermatologist,7,22,2021-12-15,500,,Bangalore,Resigned
+131,Timothy Sidhu,Male,Orthopedic,10,3,2017-08-10,700,,Mumbai,On Leave
+132,Jason Srivastava,F,Dermatologist,8,4,2020-03-30,500,,Delhi,Resigned
+133,Gunbir Balay,F,ENT Specialist,6,13,2017-12-31,1500,,Kolkata,On Leave
+134,Sathvik Vohra,F,Orthopedic,6,22,2023-10-02,1500,,Kolkata,Active
+135,Ucchal Rege,Male,Orthopedic,6,18,2021-02-13,500,2.7,Mumbai,Active
+136,Janya Chakrabarti,F,Pediatrician,1,20,2022-11-17,1000,,Mumbai,Active
+137,Upma Babu,M,Radiologist,8,4,2025-02-05,1000,3.8,Mumbai,Active
+138,Anvi Balan,male,Cardiologist,9,20,2022-07-21,1000,,Kolkata,active
+139,Kevin Nadig,male,Oncologist,6,1,2025-12-24,700,,Delhi,Resigned
+140,Upadhriti Chanda,Male,Radiologist,2,13,2020-08-04,1500,2.9,Bangalore,On Leave
+141,Edhitha Pall,Female,Neurologist,10,2,2025-03-10,700,,Delhi,Active
+142,Watika Tiwari,Male,ENT Specialist,8,14,2019-05-17,1000,,Delhi,Active
+143,Kamya Wason,male,ENT Specialist,10,17,2022-09-23,1000,,Kolkata,active
+144,Aadhya Iyer,F,Radiologist,1,10,2019-01-01,700,5.0,Delhi,On Leave
+145,Ladli Walia,male,Dermatologist,8,6,2017-05-14,700,3.3,Bangalore,active
+146,Jalsa Chaudhari,M,Dermatologist,2,24,2020-03-10,500,,Bangalore,Active
+147,Saksham Puri,F,Dermatologist,10,19,2025-11-09,1500,,Bangalore,On Leave
+148,Aarna Edwin,Male,ENT Specialist,3,23,2024-12-28,1000,,Kolkata,Resigned
+149,Gavin Khalsa,Male,Neurologist,9,13,2018-10-11,1000,,Mumbai,active
+150,Vanya Madan,male,Neurologist,9,17,2023-05-31,2000,4.4,Delhi,On Leave
+151,Omya Purohit,male,Neurologist,4,5,2019-04-19,1000,4.3,Delhi,active
+152,Dhruv Krishna,M,ENT Specialist,3,15,2025-01-29,2000,2.9,Bangalore,On Leave
+153,Zilmil Dugar,male,ENT Specialist,8,21,2025-10-25,1000,2.9,Mumbai,Active
+154,Gautami Bansal,male,ENT Specialist,8,2,2021-10-03,500,,Mumbai,On Leave
+155,Warinder Master,Male,Dermatologist,10,15,2017-12-30,2000,4.1,Kolkata,Resigned
+156,Michael Lad,M,ENT Specialist,10,17,2023-09-06,700,,Kolkata,Resigned
+157,Vyanjana Manne,Male,Orthopedic,2,2,2023-01-15,700,,Bangalore,Resigned
+158,Turvi Dhingra,M,Oncologist,6,10,2016-07-28,1500,3.8,Bangalore,On Leave
+159,Chakradev Raghavan,M,Oncologist,2,4,2021-06-14,2000,,Bangalore,On Leave
+160,Jai Zachariah,male,Neurologist,6,19,2025-05-30,700,4.3,Mumbai,On Leave
+161,Ishani Chhabra,F,Dermatologist,5,21,2017-05-09,1000,2.8,Delhi,Active
+162,Triya Ganesan,F,Pediatrician,6,6,2020-08-24,700,3.8,Mumbai,Resigned
+163,Aradhana Narang,Female,Neurologist,3,10,2018-02-19,500,3.1,Kolkata,On Leave
+164,Yashica More,M,Orthopedic,3,6,2026-02-01,2000,,Delhi,Resigned
+165,Yug Gera,Male,Pediatrician,8,25,2024-10-10,1500,3.5,Delhi,active
+166,Radhika Khare,male,Oncologist,4,22,2021-02-28,2000,,Bangalore,Resigned
+167,Vanya Natarajan,male,Radiologist,3,20,2022-03-28,700,,Mumbai,Active
+168,Radhika Bera,F,Neurologist,9,10,2024-06-03,500,4.7,Delhi,On Leave
+169,Xavier Kala,F,Neurologist,7,8,2017-03-03,1500,4.8,Mumbai,Active
+170,Nikita Ratti,F,Dermatologist,4,3,2017-12-02,1000,,Delhi,Active
+171,Karan Kibe,male,Orthopedic,3,2,2021-03-11,1000,,Bangalore,active
+172,Pahal Chowdhury,F,Cardiologist,2,9,2025-06-21,700,3.6,Delhi,Resigned
+173,Edhitha Sarraf,Male,Neurologist,5,2,2024-08-20,700,4.4,Bangalore,Resigned
+174,Onkar Dass,Male,Cardiologist,10,21,2018-06-24,2000,,Delhi,active
+175,Yagnesh Mohanty,male,Dermatologist,4,6,2018-11-12,500,,Mumbai,Active
+176,Divya Bains,M,ENT Specialist,7,2,2018-06-16,1500,3.9,Mumbai,On Leave
+177,Yashvi Devi,Male,Radiologist,6,24,2023-12-02,500,3.4,Mumbai,active
+178,Wyatt Devi,Male,ENT Specialist,3,23,2016-08-03,1500,,Delhi,active
+179,Wahab Sundaram,Male,Pediatrician,1,7,2024-01-04,500,,Delhi,Active
+180,Viraj Seshadri,male,ENT Specialist,9,9,2019-03-11,500,,Delhi,On Leave
+181,Hemangini Kale,male,Pediatrician,6,4,2026-01-03,1000,4.7,Bangalore,Resigned
+182,Isaac Bir,F,Orthopedic,6,16,2024-04-03,1500,,Mumbai,On Leave
+183,Raghav Narain,Male,Orthopedic,7,18,2024-06-12,1000,4.3,Mumbai,Active
+184,Azaan Madan,Male,ENT Specialist,5,20,2023-07-09,1500,,Delhi,Resigned
+185,Niharika Iyengar,male,Dermatologist,10,9,2016-09-03,500,,Kolkata,Resigned
+186,Yash Ray,male,Orthopedic,1,20,2025-05-31,1500,3.8,Kolkata,active
+187,Ria Dhillon,Male,Dermatologist,6,19,2021-08-13,500,,Delhi,Resigned
+188,Nidra Buch,male,Orthopedic,10,17,2018-02-27,1000,3.4,Bangalore,On Leave
+189,Kamala Nigam,male,Orthopedic,1,16,2026-04-23,2000,3.1,Bangalore,Active
+190,Veer Bora,male,Pediatrician,4,23,2017-05-07,1500,,Delhi,Active
+191,Pavani Chadha,Female,ENT Specialist,3,3,2023-11-26,1000,,Mumbai,Active
+192,Tanay Ratta,M,Orthopedic,3,12,2017-12-21,2000,,Delhi,Active
+193,Arya Chaudry,Female,Cardiologist,8,12,2019-12-05,2000,4.5,Mumbai,Resigned
+194,Ayush Kala,M,Pediatrician,2,13,2021-09-22,1500,2.8,Bangalore,Resigned
+195,Harita Mandal,M,ENT Specialist,2,15,2019-09-05,2000,,Mumbai,active
+196,Rachit Mitter,M,Dermatologist,3,17,2024-03-21,500,4.1,Kolkata,active
+197,Kamya Ghose,male,Oncologist,4,17,2017-05-29,1000,,Kolkata,On Leave
+198,Adweta Mahal,Female,Pediatrician,3,20,2022-09-12,2000,,Kolkata,active
+199,Neel Gala,M,Oncologist,3,19,2017-01-16,500,4.9,Kolkata,Active
+200,Wriddhish Desai,Male,Dermatologist,4,20,2023-10-13,500,,Bangalore,On Leave

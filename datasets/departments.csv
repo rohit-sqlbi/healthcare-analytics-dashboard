@@ -1,0 +1,11 @@
+department_id,department_name,floor_number,created_date
+1,Cardiology,7,2022-01-01
+2,Neurology,4,2022-01-02
+3,Orthopedics,5,2022-01-03
+4,Emergency,7,2022-01-04
+5,Radiology,3,2022-01-05
+6,Pediatrics,5,2022-01-06
+7,Oncology,5,2022-01-07
+8,ICU,7,2022-01-08
+9,Dermatology,2,2022-01-09
+10,ENT,3,2022-01-10
